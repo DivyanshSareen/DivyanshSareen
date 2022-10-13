@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello👋, I am *Divyansh Sareen*
+
+I am Web Developer💻 from Delhi, India.
+
+You can find me on
+- [🌐 LinkedIn](https://pages.github.com/)
+- [✍️ Hashnode](https://pages.github.com/)
+- [🐤 Twitter](https://pages.github.com/)
+
+Tools and Languages I use 
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,webpack,figma,python,git)](https://skills.thijs.gg)
 
 <!--
 **DivyanshSareen/DivyanshSareen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
