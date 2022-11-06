@@ -4,7 +4,8 @@
 I am Web Developer💻 from Delhi, India.
 
 You can find me on
-- [🌐 LinkedIn](https://www.linkedin.com/in/divyansh-sareen-55302b195/)
+- [🌐 Web Portfolio](https://www.divyanshsareen.com/)
+- [💼 LinkedIn](https://www.linkedin.com/in/divyansh-sareen-55302b195/)
 - [✍️ Hashnode](https://divyanshsareen.hashnode.dev/)
 - [🐤 Twitter](https://twitter.com/divyanshsareen)
 - [⚔️ Codewars](https://www.codewars.com/users/DivyanshSareen)
