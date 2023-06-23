@@ -11,7 +11,7 @@ You can find me on
 - [⚔️ Codewars](https://www.codewars.com/users/DivyanshSareen)
 
 Tools and Languages I use 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,webpack,figma,python,git,nodejs,expressjs,nestjs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,materialui,nodejs,expressjs,nestjs,webpack,figma,python,git)](https://skills.thijs.gg)
 
 
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyanshSareen&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
